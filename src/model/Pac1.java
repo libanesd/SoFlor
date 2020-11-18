@@ -7,12 +7,12 @@ public class Pac1 {
 	public Pac1(String nome, String categoria, String origin, String condicoes, Float preco, Date data,
 			Especificacoes especificacao) {
 		super();
-		this.nome = nome;
-		this.categoria = categoria;
-		this.origin = origin;
-		this.condicoes = condicoes;
-		this.preco = preco;
-		this.data = data;
+		this.nome = 	 	 nome;
+		this.categoria =	 categoria;
+		this.origin = 	 	 origin;
+		this.condicoes = 	 condicoes;
+		this.preco = 	 	 preco;
+		this.data = 	 	 data;
 		this.especificacao = especificacao;
 	}
 
@@ -20,8 +20,8 @@ public class Pac1 {
 	private String categoria;
 	private String origin;
 	private String condicoes;
-	private Float preco;
-	private Date data;
+	private Float  preco;
+	private Date   data;
 	
 	private Especificacoes especificacao;
 	
